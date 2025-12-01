@@ -116,22 +116,9 @@ AntiScamAI leverages cutting-edge AI technology to analyze messages and detect p
 
 **Team Lead:**
 - Name: Akshay Gurav
-- College Name: [To be filled]
-- Email: [To be filled]
-- Phone: [To be filled]
-
-**Member 1:**
-- Name: 
-- College Name: [To be filled]
-- Email: [To be filled]
-- Phone: [To be filled]
-
-**Member 2:**
-- Name: 
-- College Name: [To be filled]
-- Email: [To be filled]
-- Phone: [To be filled]
-
+- Name: Rituraj
+- Shreyas
+- Sakshi
 ---
 
 *Developed by TrustWave*
