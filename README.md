@@ -39,8 +39,8 @@ Follow these steps to set up the project locally.
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/scamguard-ai.git
-   cd scamguard-ai
+   git clone https://github.com/Akshay-gurav-31/AntiScamAI-Hackathon.git
+   cd AntiScamAI-Hackathon
    ```
 
 2. **Install dependencies**
@@ -67,20 +67,6 @@ src/
 ├── App.tsx            # Root component and routing
 └── main.tsx           # Entry point
 ```
-
-## 🛡️ Privacy Note
-
-ScamGuard AI performs all analysis **locally in your browser**. Your messages are not sent to any backend server or third-party API for processing, ensuring your data remains private.
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the project
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 ## 🎯 PPT Presentation
 
