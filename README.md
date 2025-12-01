@@ -115,8 +115,8 @@ AntiScamAI leverages cutting-edge AI technology to analyze messages and detect p
 ### TEAM MEMBERS
 
 **Team Lead:**
-- Name: Akshay Gurav
-- Name: Rituraj
+- Akshay Gurav
+- Rituraj
 - Shreyas
 - Sakshi
 ---
